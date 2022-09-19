@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main_1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main_2.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main_3.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/tichhv/AndroidStudioProjects/RelaytiveLayout08082022/app/src/main/res/layout/activity_main_4.xml" value="0.18697916666666667" />
       </map>
     </option>
   </component>
